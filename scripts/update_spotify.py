@@ -6,7 +6,7 @@ import requests
 
 N = 5
 BADGE = (
-    "https://img.shields.io/badge/{}-LAST_12_MONTHS-39FF14"
+    "https://img.shields.io/badge/{}-LAST_4_WEEKS-39FF14"
     "?style=for-the-badge&logo=spotify&logoColor=black&labelColor=0d1117"
 )
 
@@ -26,7 +26,7 @@ def top(kind, token):
     r = requests.get(
         f"https://api.spotify.com/v1/me/top/{kind}",
         headers={"Authorization": f"Bearer {token}"},
-        params={"time_range": "long_term", "limit": N},
+        params={"time_range": "short_term", "limit": N},
         timeout=30,
     )
     r.raise_for_status()

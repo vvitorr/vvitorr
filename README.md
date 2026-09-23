@@ -112,17 +112,9 @@ Ping statistics for vvitorr:
 ## `$ tail -f spotify.log`
 
 <!--SPOTIFY:START-->
-```bash
-vvitorr# show spotify top --range 12m
+<div align="center">
 
-  TOP ARTISTS
+<sub>a carregar...</sub>
 
-  [01] (a atualizar)
-
-  TOP TRACKS
-
-  [01] (a atualizar)
-
-vvitorr#
-```
+</div>
 <!--SPOTIFY:END-->

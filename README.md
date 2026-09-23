@@ -1,58 +1,128 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vítor Carneiro</h1></summary>
-  </ul>
+<div align="center">
+
+```text
+██╗   ██╗██╗████████╗ ██████╗ ██████╗ 
+██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
+██║   ██║██║   ██║   ██║   ██║██████╔╝
+╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
+ ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║
+  ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=CS+Student+%40+ISEP-UTP;Network+%26+Infra+Enthusiast;CCNA+in+Progress;Systems+Programming;Software+Architecture;Building+Reliable+Systems)](https://github.com/vvitorr)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vvitorr&label=CONNECTIONS&color=39FF14&style=flat-square)](https://github.com/vvitorr)
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👨‍💻 Sobre Mim
+---
 
-- 🎓 Estudante de **Engenharia Informática** no ISEP (Instituto Superior de Engenharia do Porto).
-- 🌐 Apaixonado por **Redes, Cibersegurança e Infraestruturas**.
-- 📚 A frequentar formação **CCNA** (ISEP Academy) em preparação para a certificação da Cisco.
-- 💡 Forte interesse em **Arquitetura de Software, Sistemas Distribuídos**, protocolos de rede customizados e soluções Web/Cloud.
+## `$ whoami`
 
-### 🛠️ Tecnologias & Ferramentas
+```bash
+vvitorr# show running-config | include whoami
 
-**Linguagens de Programação:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-4D4D4D?style=for-the-badge)
+  hostname vvitorr
+  description Computer Engineering Student @ ISEP 🇵🇹
 
-**Web & Frameworks:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+  [+] Networking, Cybersecurity & Infrastructure
+  [+] Software Architecture & Distributed Systems (DDD, TDD)
+  [+] Currently chasing: Cisco CCNA Certification
 
-**Redes & Sistemas (Infraestrutura):**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-> *TCP/IP, VLANs, Routing & Switching, DHCP, OSPF, Virtualização, Wireshark*
+vvitorr#
+```
 
-**Bases de Dados & IA:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Generative_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+---
 
-### 🚀 Projetos em Destaque
-* **ProofPocket** 🛡️
-  *Plataforma de deteção de phishing focada na privacidade criada numa hackathon. Utiliza React Native, AWS (Serverless, Cognito, Bedrock) e infraestrutura como código com Terraform.*
-* **AISafe** ✈️
-  *Backoffice de aviação multi-módulo em Java utilizando Domain-Driven Design (DDD). Inclui protocolos TCP/UDP customizados, validação de planos de voo (ANTLR4) e integração com simulador de física em C.*
+## `$ cat cert_log.txt`
 
-### 📫 Vamos conectar-nos?
+```bash
+vvitorr# show cert-history detail
 
-<a href="https://linkedin.com/in/vitor-carneiro0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:pfvitorcarneiro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  CERTIFICATION PATH
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  [~] Cisco CCNA (ISEP Academy) .................... IN PROGRESS
+
+vvitorr#
+```
+
+<div align="center">
+
+![CCNA](https://img.shields.io/badge/CCNA-IN_PROGRESS-39FF14?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117)
+
+</div>
+
+---
+
+## `$ nmap -sV stack`
+
+<div align="center">
+
+**Linguagens & Bases de Dados**<br/>
+[![Stack](https://skillicons.dev/icons?i=java,c,ts,js,python,postgres,mongodb&theme=dark)](https://skillicons.dev)
+
+**Redes, Cloud & OS**<br/>
+[![Stack](https://skillicons.dev/icons?i=linux,windows,aws,docker&theme=dark)](https://skillicons.dev)
+
+**Web & Ferramentas**<br/>
+[![Stack](https://skillicons.dev/icons?i=nodejs,react,angular,threejs,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## `$ cat projects.log`
+
+```bash
+vvitorr# show projects installed
+
+  [01] Multi-Site Campus .... IPv4, VLANs, HSRP, WLC on Cisco IOS
+  [02] ProofPocket .......... Privacy-first anti-phishing (React Native + AWS)
+  [03] AISafe ............... Aviation backoffice (Java, DDD, TCP/UDP custom)
+
+vvitorr#
+```
+
+---
+
+## `$ ping vvitorr -t`
+
+```bash
+Pinging linkedin.com/in/vitor-carneiro0 with 32 bytes of data:
+
+Reply from pfvitorcarneiro@gmail.com: bytes=32 time<1ms TTL=128
+Reply from pfvitorcarneiro@gmail.com: bytes=32 time<1ms TTL=128
+Reply from pfvitorcarneiro@gmail.com: bytes=32 time<1ms TTL=128
+
+Ping statistics for vvitorr:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss)
+    Status: always reachable, reply guaranteed
+```
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vitor-carneiro0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="mailto:pfvitorcarneiro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="https://instagram.com/vitorhugo.1010"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/></a>
+
+</div>
+
+---
+
+## `$ tail -f spotify.log`
+
+<!--SPOTIFY:START-->
+```bash
+vvitorr# show spotify top --range 12m
+
+  TOP ARTISTS
+
+  [01] (a atualizar)
+
+  TOP TRACKS
+
+  [01] (a atualizar)
+
+vvitorr#
+```
+<!--SPOTIFY:END-->

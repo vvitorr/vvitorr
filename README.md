@@ -117,11 +117,19 @@ vvitorr# show spotify top --range 12m
 
   TOP ARTISTS
 
-  [01] (a atualizar)
+  [01] Drake
+  [02] Kanye West
+  [03] Radiohead
+  [04] ProfJam
+  [05] Isak
 
   TOP TRACKS
 
-  [01] (a atualizar)
+  [01] Let Down - Radiohead
+  [02] Tatiana - Basílio Teles
+  [03] All I Need - Radiohead
+  [04] Bar Da Praia - Isak
+  [05] Memória - ROSALÍA
 
 vvitorr#
 ```

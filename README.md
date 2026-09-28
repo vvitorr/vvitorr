@@ -122,7 +122,7 @@ Ping statistics for vvitorr:
 
 <table align="center"><tr><td align="center" valign="top" width="130"><sub>01</sub><br/><a href="https://open.spotify.com/track/07pGNZ8JU6M6kAliMiqwDJ"><img src="https://i.scdn.co/image/ab67616d00001e0284c8fab062d3aac5c6a6245f" width="110" height="110" alt="Tatiana"/></a><br/><b>Tatiana</b><br/><sub>Basílio Teles</sub></td><td align="center" valign="top" width="130"><sub>02</sub><br/><a href="https://open.spotify.com/track/7malrqRM5g4fsjwJym4ore"><img src="https://i.scdn.co/image/ab67616d00001e02a8dd332042c0a8c40fc2deda" width="110" height="110" alt="Bar Da Praia"/></a><br/><b>Bar Da Praia</b><br/><sub>Isak</sub></td><td align="center" valign="top" width="130"><sub>03</sub><br/><a href="https://open.spotify.com/track/5WWtmQM2ECCgHTaKx590Wz"><img src="https://i.scdn.co/image/ab67616d00001e02c6b9b59ceb4cda03baeffdf1" width="110" height="110" alt="PENSAR EM TI (feat. Plutonio)"/></a><br/><b>PENSAR EM TI (feat.…</b><br/><sub>ProfJam</sub></td><td align="center" valign="top" width="130"><sub>04</sub><br/><a href="https://open.spotify.com/track/5XvEKpSHZ8yO1HBq1MzPt1"><img src="https://i.scdn.co/image/ab67616d00001e020eecd0c640b765fbe800ed34" width="110" height="110" alt="Sanguinário"/></a><br/><b>Sanguinário</b><br/><sub>Isak</sub></td><td align="center" valign="top" width="130"><sub>05</sub><br/><a href="https://open.spotify.com/track/7fCpz3D5GaxT26ExoG8cAz"><img src="https://i.scdn.co/image/ab67616d00001e02c6b9b59ceb4cda03baeffdf1" width="110" height="110" alt="FILMES"/></a><br/><b>FILMES</b><br/><sub>ProfJam</sub></td></tr></table>
 
-<sub>updated 2026-09-23 UTC</sub>
+<sub>updated 2026-09-28 UTC</sub>
 
 </div>
 <!--SPOTIFY:END-->

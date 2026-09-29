@@ -1,13 +1,6 @@
 <div align="center">
 
-```text
-██╗   ██╗██╗████████╗ ██████╗ ██████╗ 
-██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
-██║   ██║██║   ██║   ██║   ██║██████╔╝
-╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
- ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║
-  ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
+<img src="./assets/banner.svg" alt="vvitorr terminal" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=CS+Student+%40+ISEP-UTP;Network+%26+Infra+Enthusiast;CCNA+in+Progress;Systems+Programming;Software+Architecture;Building+Reliable+Systems)](https://github.com/vvitorr)
 
